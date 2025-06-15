@@ -1,0 +1,9 @@
+* reblocks-websocket
+
+Websocket support for Reblocks framework
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/40ants/reblocks-websocket.git |
+| commit  | 6c09028                                              |
+| systems | reblocks-websocket                                   |
+|---------+------------------------------------------------------|
